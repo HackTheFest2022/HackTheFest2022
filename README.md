@@ -2,7 +2,7 @@
 
 # Welcome to the Official Repository of HackTheFest 2022
 
-**Hack - Code - Repeat**
+**Hack - Code - Repeat** 
 
 ## Sponsors
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
